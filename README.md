@@ -53,6 +53,10 @@
   - The size of array cannot be modified.
   - Vector can grow or shrink in size as needed.
 
+## Recursion
+
+- A function calls it self until a specific condition is met.
+
 ### Resources
 
 [takeuforward](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
