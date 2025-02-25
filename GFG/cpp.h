@@ -7,6 +7,9 @@
 # include <queue>
 # include <set>
 # include <map>
+# include <unordered_map>
 # include <cmath>
+
+using namespace std;
 
 #endif
