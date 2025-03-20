@@ -49,7 +49,7 @@
 #include <iterator>    // iterators
 ```
 
-- Vector is like a resizable array. T
+- Vector is like a resizable array.
   - The size of array cannot be modified.
   - Vector can grow or shrink in size as needed.
 
@@ -57,6 +57,13 @@
 
 - A function calls it self until a specific condition is met.
 
+## Hashing
+
+- Chaining (Array of pointer to linklist)
+- Linear Probing
+- Quadratic Probing
+
 ### Resources
 
+[learncpp](https://www.learncpp.com/);
 [takeuforward](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
