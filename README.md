@@ -65,5 +65,5 @@
 
 ### Resources
 
-[learncpp](https://www.learncpp.com/);
+[learncpp](https://www.learncpp.com/)  
 [takeuforward](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
